@@ -1,0 +1,9 @@
+name,fur,wings,gills,teeth,beak,number of legs,fangs
+cat,1,0,0,1,0,4,0
+bird,0,1,0,0,1,2,0
+lizard,0,0,0,1,0,4,0
+fly,0,1,0,0,0,4,0
+fish,0,0,1,1,0,0,0
+dinosaur,1,0,0,1,0,4,0
+spider,1,0,0,0,0,8,1
+worm,0,0,0,0,0,0,0
